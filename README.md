@@ -33,5 +33,6 @@ gvim 中设置set  iminsert=2 的方法,相当于是在第一种方案中,gvim�
 
 ![image](https://github.com/TurnoffyourTV/InputAutoChange/assets/54170984/474cda02-e9bc-45da-91f8-4b9c16c85ca6)
 
-启动程序,这样子我们就实现了输入法层面的绑定,左shfit键位单击切换至中文输入,右shift切换至英文输入,esc同理,不需要记忆输入法的状态了(使用该程序时候,要在windows设置中关闭使用shift切换中英输入法的功能)
+启动程序,这样子我们就实现了输入法层面的绑定,左shfit键位单击切换至中文输入,右shift切换至英文输入,esc同理,不需要记忆输入法的状态了
+(使用该程序时候,要在windows设置中关闭使用shift切换中英输入法的功能)
 目前笔者测试了微软拼音输入法以及小狼毫输入法,都稳定可用,kblautoswitch还有其他功能,欢迎大家挖掘使用
